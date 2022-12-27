@@ -1,0 +1,28 @@
+{
+  "name": "express_template",
+  "version": "1.0.0",
+  "description": "express_proyect_template",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/Imagiverse/express_template.git"
+  },
+  "author": "Imagiverse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/Imagiverse/express_template/issues"
+  },
+  "homepage": "https://gitlab.com/Imagiverse/express_template#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.20"
+  }
+}
