@@ -1,7 +1,7 @@
 
 # Express Template
 
-Template to backend proyect, available to use with Firebase and MySQL
+Template to backend by Esteban Calle, available for use Firebase, Mongo and MySQL Database
 
 
 
