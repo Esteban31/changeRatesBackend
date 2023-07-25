@@ -40,7 +40,7 @@ export async function login(req, res) {
 
             res.status(200).send({ process: true, token: generatedToken });  
       } else {
-            res.status(401).send({ process: false });  
+            res.status(200).send({ process: false });  
       }
 
 
